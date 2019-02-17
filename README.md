@@ -1,0 +1,2 @@
+# EmojiGAN
+Generates Discord emojis

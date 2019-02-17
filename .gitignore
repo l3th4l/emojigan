@@ -1,0 +1,15 @@
+#Datasets
+Datasets/regular/
+Datasets/letters/
+Datasets/face/
+
+#dat_bin
+dat_bin/
+
+#weights
+saved_state/
+
+#results
+DCGAN_results/
+
+__pycache__/
